@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ViewSeleccionables</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="libros">
+        <item>Cien Años de Soledad</item>
+        <item>Almas Salvajes</item>
+        <item>Cumbres Borrascosas</item>
+        <item>Los Cuatro Acuerdos</item>
+        <item>Love Roses</item>
+        <item>Los Secretos del Aquimista</item>
+        <item>Angeles y Demonios</item>
+    </string-array>
+    <string-array name="games">
+        <item>Call of Duty,Accion,13</item>
+        <item>Mortal Kombat,Accion,15</item>
+        <item>Blur,Carrerars,9</item>
+        <item>Fifa 15,Deportes,9</item>
+    </string-array>
+
+    <string name="title_activity_game">GameActivity</string>
+    <string name="menu_add">Agregar</string>
+    <string name="menu_more">Mas</string>
+    <string name="menu_about">Acerca De</string>
+    <string name="menu_info">Información</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Eliminar</string>
+</resources>
